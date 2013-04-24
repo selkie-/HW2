@@ -22,4 +22,5 @@ def by_five(*arg) :
         return cube()
     else:
         return False
-timeit("cube(90))
+timeit("cube(90)")
+
